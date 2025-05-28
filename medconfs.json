@@ -1,6 +1,174 @@
 {
   "conferences": [
     {
+      "name": "ASCO Annual Meeting",
+      "organization": "American Society of Clinical Oncology",
+      "category": "Hematology and Oncology",
+      "dates": "May 30 - June 3, 2025",
+      "startDate": "2025-05-30",
+      "location": "Chicago, IL",
+      "abstractDeadline": "January 28, 2025",
+      "website": "https://www.asco.org",
+      "description": "Premier global oncology conference",
+      "year": 2025
+    },
+    {
+      "name": "ENDO Annual Meeting",
+      "organization": "Endocrine Society",
+      "category": "Endocrinology",
+      "dates": "July 12-15, 2025",
+      "startDate": "2025-07-12",
+      "location": "San Francisco, CA",
+      "abstractDeadline": "February 3, 2025",
+      "website": "https://www.endocrine.org",
+      "description": "Cutting-edge advances in endocrinology",
+      "year": 2025
+    },
+    {
+      "name": "FMA Annual Meeting",
+      "organization": "Florida Medical Association",
+      "category": "Primary Care",
+      "dates": "July 25-27, 2025",
+      "startDate": "2025-07-25",
+      "location": "Orlando, FL",
+      "abstractDeadline": "April 7, 2025",
+      "website": "https://www.flmedical.org",
+      "description": "Statewide Florida physician meeting with poster symposium",
+      "year": 2025
+    },
+    {
+      "name": "APDIM Fall Meeting",
+      "organization": "Alliance for Academic Internal Medicine",
+      "category": "Academic Medicine",
+      "dates": "October 16-18, 2025",
+      "startDate": "2025-10-16",
+      "location": "Atlanta, GA",
+      "abstractDeadline": "April - May 2025",
+      "website": "https://www.im.org",
+      "description": "Workshop-intensive format for GME leadership",
+      "year": 2025
+    },
+    {
+      "name": "CHEST Annual Meeting",
+      "organization": "American College of Chest Physicians",
+      "category": "Pulmonary",
+      "dates": "October 19-22, 2025",
+      "startDate": "2025-10-19",
+      "location": "Chicago, IL",
+      "abstractDeadline": "June 2, 2025",
+      "website": "https://www.chestnet.org",
+      "description": "Clinical insights for chest medicine - 90th anniversary",
+      "year": 2025
+    },
+    {
+      "name": "IDWeek",
+      "organization": "IDSA, SHEA, HIVMA, PIDS, SIDP",
+      "category": "Infectious Disease",
+      "dates": "October 19-22, 2025",
+      "startDate": "2025-10-19",
+      "location": "Atlanta, GA",
+      "abstractDeadline": "May 1, 2025",
+      "website": "https://www.idweek.org",
+      "description": "Comprehensive infectious diseases conference",
+      "year": 2025
+    },
+    {
+      "name": "ACG Annual Scientific Meeting",
+      "organization": "American College of Gastroenterology",
+      "category": "Gastroenterology",
+      "dates": "October 24-29, 2025",
+      "startDate": "2025-10-24",
+      "location": "Phoenix, AZ",
+      "abstractDeadline": "June 2, 2025",
+      "website": "https://gi.org",
+      "description": "Clinical gastroenterology and endoscopy focus",
+      "year": 2025
+    },
+    {
+      "name": "ACR Convergence",
+      "organization": "American College of Rheumatology",
+      "category": "Rheumatology",
+      "dates": "October 24-29, 2025",
+      "startDate": "2025-10-24",
+      "location": "Chicago, IL",
+      "abstractDeadline": "May 13, 2025",
+      "website": "https://rheumatology.org",
+      "description": "Premier rheumatology conference",
+      "year": 2025
+    },
+    {
+      "name": "Florida Chapter ACP Scientific Meeting",
+      "organization": "ACP Florida Chapter",
+      "category": "Primary Care",
+      "dates": "November 6-9, 2025",
+      "startDate": "2025-11-06",
+      "location": "Disney Springs, FL",
+      "abstractDeadline": "July - August 2025",
+      "website": "https://www.acponline.org/florida",
+      "description": "State-level ACP conference with CME",
+      "year": 2025
+    },
+    {
+      "name": "AHA Scientific Sessions",
+      "organization": "American Heart Association",
+      "category": "Cardiology",
+      "dates": "November 7-10, 2025",
+      "startDate": "2025-11-07",
+      "location": "New Orleans, LA",
+      "abstractDeadline": "June 5, 2025",
+      "website": "https://professional.heart.org",
+      "description": "Major cardiovascular disease conference",
+      "year": 2025
+    },
+    {
+      "name": "AASLD The Liver Meeting",
+      "organization": "American Association for the Study of Liver Diseases",
+      "category": "Gastroenterology",
+      "dates": "November 7-11, 2025",
+      "startDate": "2025-11-07",
+      "location": "Washington, DC",
+      "abstractDeadline": "May 29, 2025",
+      "website": "https://www.aasld.org",
+      "description": "Premier liver disease conference",
+      "year": 2025
+    },
+    {
+      "name": "Kidney Week",
+      "organization": "American Society of Nephrology",
+      "category": "Nephrology",
+      "dates": "November 7-9, 2025",
+      "startDate": "2025-11-07",
+      "location": "Houston, TX",
+      "abstractDeadline": "May 21, 2025",
+      "website": "https://www.asn-online.org",
+      "description": "World's premier nephrology meeting",
+      "year": 2025
+    },
+    {
+      "name": "ACLM Annual Conference",
+      "organization": "American College of Lifestyle Medicine",
+      "category": "Primary Care",
+      "dates": "November 16-19, 2025",
+      "startDate": "2025-11-16",
+      "location": "Grapevine, TX",
+      "abstractDeadline": "Summer 2025",
+      "website": "https://lifestylemedicine.org",
+      "description": "Evidence-based lifestyle medicine",
+      "year": 2025
+    },
+    {
+      "name": "ASH Annual Meeting",
+      "organization": "American Society of Hematology",
+      "category": "Hematology and Oncology",
+      "dates": "December 6-9, 2025",
+      "startDate": "2025-12-06",
+      "location": "Orlando, FL",
+      "abstractDeadline": "August 5, 2025",
+      "website": "https://www.hematology.org",
+      "description": "Comprehensive hematology conference - 67th Annual Meeting",
+      "year": 2025
+    },
+    {
       "name": "ACMS Research Symposium",
       "organization": "Alachua County Medical Society",
       "category": "Primary Care",
@@ -9,7 +177,8 @@
       "location": "Gainesville, FL",
       "abstractDeadline": "Late November 2025",
       "website": "https://www.acms.net",
-      "description": "Local research symposium for Alachua County residents and fellows"
+      "description": "Local research symposium for Alachua County residents and fellows",
+      "year": 2026
     },
     {
       "name": "AAAAI Annual Meeting",
@@ -20,7 +189,8 @@
       "location": "Philadelphia, PA",
       "abstractDeadline": "August - September 2025",
       "website": "https://www.aaaai.org",
-      "description": "Premier conference for allergy and immunology professionals"
+      "description": "Premier conference for allergy and immunology professionals",
+      "year": 2026
     },
     {
       "name": "Florida ACP Resident & Medical Student Meeting",
@@ -31,7 +201,8 @@
       "location": "Florida (likely Orlando)",
       "abstractDeadline": "November - December 2025",
       "website": "https://www.acponline.org/florida",
-      "description": "Regional meeting for Florida IM residents and students"
+      "description": "Regional meeting for Florida IM residents and students",
+      "year": 2026
     },
     {
       "name": "SCCM Critical Care Congress",
@@ -42,7 +213,8 @@
       "location": "Chicago, IL",
       "abstractDeadline": "August 1, 2025",
       "website": "https://www.sccm.org",
-      "description": "Multidisciplinary critical care conference"
+      "description": "Multidisciplinary critical care conference",
+      "year": 2026
     },
     {
       "name": "ACC Annual Scientific Session",
@@ -53,7 +225,8 @@
       "location": "New Orleans, LA",
       "abstractDeadline": "Early October 2025",
       "website": "https://www.acc.org",
-      "description": "Major cardiology conference with cutting-edge science"
+      "description": "Major cardiology conference with cutting-edge science",
+      "year": 2026
     },
     {
       "name": "SHM Converge",
@@ -64,7 +237,8 @@
       "location": "Nashville, TN",
       "abstractDeadline": "Late October - November 2025",
       "website": "https://www.hospitalmedicine.org",
-      "description": "Premier national conference for hospitalists"
+      "description": "Premier national conference for hospitalists",
+      "year": 2026
     },
     {
       "name": "ACP Internal Medicine Meeting",
@@ -75,7 +249,8 @@
       "location": "San Francisco, CA",
       "abstractDeadline": "November 2025",
       "website": "https://annualmeeting.acponline.org",
-      "description": "One of the largest general internal medicine conferences"
+      "description": "One of the largest general internal medicine conferences",
+      "year": 2026
     },
     {
       "name": "AAIM/APDIM Academic Internal Medicine Week",
@@ -86,7 +261,8 @@
       "location": "Seattle, WA",
       "abstractDeadline": "October - November 2025",
       "website": "https://www.im.org",
-      "description": "Premier conference for academic internal medicine leadership"
+      "description": "Premier conference for academic internal medicine leadership",
+      "year": 2026
     },
     {
       "name": "APDIM Chief Resident Training",
@@ -97,7 +273,8 @@
       "location": "Seattle, WA",
       "abstractDeadline": "Mid-to-late 2025 (enrollment)",
       "website": "https://www.im.org",
-      "description": "Year-long program for chief medical residents"
+      "description": "Year-long program for chief medical residents",
+      "year": 2026
     },
     {
       "name": "AGS Annual Scientific Meeting",
@@ -108,7 +285,8 @@
       "location": "Virtual",
       "abstractDeadline": "Early December 2025",
       "website": "https://meeting.americangeriatrics.org",
-      "description": "Focus on clinical care and research for older adults"
+      "description": "Focus on clinical care and research for older adults",
+      "year": 2026
     },
     {
       "name": "Digestive Disease Week (DDW)",
@@ -119,7 +297,8 @@
       "location": "Chicago, IL",
       "abstractDeadline": "Early December 2025",
       "website": "https://ddw.org",
-      "description": "Largest global GI conference"
+      "description": "Largest global GI conference",
+      "year": 2026
     },
     {
       "name": "SGIM Annual Meeting",
@@ -130,7 +309,8 @@
       "location": "National Harbor, MD",
       "abstractDeadline": "December 2025",
       "website": "https://www.sgim.org",
-      "description": "Academic general medicine conference"
+      "description": "Academic general medicine conference",
+      "year": 2026
     },
     {
       "name": "ATS International Conference",
@@ -141,7 +321,8 @@
       "location": "Orlando, FL",
       "abstractDeadline": "Late January - Early February 2026",
       "website": "https://conference.thoracic.org",
-      "description": "Major conference for pulmonary, critical care, and sleep medicine"
+      "description": "Major conference for pulmonary, critical care, and sleep medicine",
+      "year": 2026
     },
     {
       "name": "ASCO Annual Meeting",
@@ -152,7 +333,8 @@
       "location": "Chicago, IL",
       "abstractDeadline": "Late January 2026",
       "website": "https://www.asco.org",
-      "description": "Premier global oncology conference"
+      "description": "Premier global oncology conference",
+      "year": 2026
     },
     {
       "name": "ADA Scientific Sessions",
@@ -163,7 +345,8 @@
       "location": "New Orleans, LA",
       "abstractDeadline": "Early January 2026",
       "website": "https://professional.diabetes.org",
-      "description": "Major diabetes research and clinical care meeting"
+      "description": "Major diabetes research and clinical care meeting",
+      "year": 2026
     },
     {
       "name": "ENDO Annual Meeting",
@@ -174,7 +357,8 @@
       "location": "Chicago, IL",
       "abstractDeadline": "December 2025",
       "website": "https://www.endocrine.org",
-      "description": "Cutting-edge advances in endocrinology"
+      "description": "Cutting-edge advances in endocrinology",
+      "year": 2026
     },
     {
       "name": "FMA Annual Meeting",
@@ -185,7 +369,8 @@
       "location": "Orlando, FL",
       "abstractDeadline": "Early-Mid April 2026",
       "website": "https://www.flmedical.org",
-      "description": "Statewide Florida physician meeting"
+      "description": "Statewide Florida physician meeting",
+      "year": 2026
     },
     {
       "name": "ACG Annual Scientific Meeting",
@@ -196,7 +381,8 @@
       "location": "Philadelphia, PA (Est.)",
       "abstractDeadline": "Late May - Early June 2026",
       "website": "https://gi.org",
-      "description": "Clinical gastroenterology and endoscopy focus"
+      "description": "Clinical gastroenterology and endoscopy focus",
+      "year": 2026
     },
     {
       "name": "CHEST Annual Meeting",
@@ -207,7 +393,8 @@
       "location": "Phoenix, AZ",
       "abstractDeadline": "April 2026",
       "website": "https://www.chestnet.org",
-      "description": "Clinical insights for chest medicine"
+      "description": "Clinical insights for chest medicine",
+      "year": 2026
     },
     {
       "name": "Kidney Week",
@@ -218,7 +405,8 @@
       "location": "Denver, CO",
       "abstractDeadline": "Late April - Early May 2026",
       "website": "https://www.asn-online.org",
-      "description": "World's premier nephrology meeting"
+      "description": "World's premier nephrology meeting",
+      "year": 2026
     },
     {
       "name": "IDWeek",
@@ -229,7 +417,8 @@
       "location": "TBD",
       "abstractDeadline": "Late April - Early May 2026",
       "website": "https://www.idweek.org",
-      "description": "Comprehensive infectious diseases conference"
+      "description": "Comprehensive infectious diseases conference",
+      "year": 2026
     },
     {
       "name": "AAIM/APDIM Fall Meeting",
@@ -240,7 +429,8 @@
       "location": "TBD",
       "abstractDeadline": "April - May 2026",
       "website": "https://www.im.org",
-      "description": "Workshop-intensive format for GME leadership"
+      "description": "Workshop-intensive format for GME leadership",
+      "year": 2026
     },
     {
       "name": "Florida Chapter ACP Scientific Meeting",
@@ -251,7 +441,8 @@
       "location": "Florida (TBD)",
       "abstractDeadline": "July - August 2026",
       "website": "https://www.acponline.org/florida",
-      "description": "State-level ACP conference"
+      "description": "State-level ACP conference",
+      "year": 2026
     },
     {
       "name": "ACR Convergence",
@@ -262,7 +453,8 @@
       "location": "Orlando, FL",
       "abstractDeadline": "June 2026",
       "website": "https://rheumatology.org",
-      "description": "Premier rheumatology conference"
+      "description": "Premier rheumatology conference",
+      "year": 2026
     },
     {
       "name": "AHA Scientific Sessions",
@@ -273,7 +465,8 @@
       "location": "Chicago, IL",
       "abstractDeadline": "Early June 2026",
       "website": "https://professional.heart.org",
-      "description": "Major cardiovascular disease conference"
+      "description": "Major cardiovascular disease conference",
+      "year": 2026
     },
     {
       "name": "ACLM Annual Conference",
@@ -284,7 +477,8 @@
       "location": "Orlando, FL",
       "abstractDeadline": "May 2026",
       "website": "https://lifestylemedicine.org",
-      "description": "Evidence-based lifestyle medicine"
+      "description": "Evidence-based lifestyle medicine",
+      "year": 2026
     },
     {
       "name": "AASLD The Liver Meeting",
@@ -295,7 +489,8 @@
       "location": "Denver, CO",
       "abstractDeadline": "Late May 2026",
       "website": "https://www.aasld.org",
-      "description": "Premier liver disease conference"
+      "description": "Premier liver disease conference",
+      "year": 2026
     },
     {
       "name": "ASH Annual Meeting",
@@ -306,7 +501,8 @@
       "location": "TBD",
       "abstractDeadline": "Early August 2026",
       "website": "https://www.hematology.org",
-      "description": "Comprehensive hematology conference"
+      "description": "Comprehensive hematology conference",
+      "year": 2026
     },
     {
       "name": "ACGME Chief Resident Leadership Training",
@@ -317,7 +513,8 @@
       "location": "Chicago, IL",
       "abstractDeadline": "Late 2025 - Early 2026",
       "website": "https://www.acgme.org",
-      "description": "Three-day intensive leadership workshop for chief residents"
+      "description": "Three-day intensive leadership workshop for chief residents",
+      "year": 2026
     }
   ]
 }
