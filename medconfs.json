@@ -440,7 +440,7 @@
       "website": "https://www.hematology.org",
       "description": "Comprehensive hematology conference - 67th Annual Meeting",
       "year": 2025,
-      "isFloridaMeeting": true
+      "isFloridaMeeting": false
     },
     {
       "name": "FSN Annual Meeting (59th)",
@@ -635,7 +635,7 @@
       "website": "https://conference.thoracic.org",
       "description": "Major conference for pulmonary, critical care, and sleep medicine",
       "year": 2026,
-      "isFloridaMeeting": true
+      "isFloridaMeeting": false
     },
     {
       "name": "MAD-ID Annual Meeting (28th)",
@@ -856,7 +856,7 @@
       "website": "https://rheumatology.org",
       "description": "Premier rheumatology conference",
       "year": 2026,
-      "isFloridaMeeting": true
+      "isFloridaMeeting": false
     },
     {
       "name": "AHA Scientific Sessions",
@@ -882,7 +882,7 @@
       "website": "https://lifestylemedicine.org",
       "description": "Evidence-based lifestyle medicine",
       "year": 2026,
-      "isFloridaMeeting": true
+      "isFloridaMeeting": false
     },
     {
       "name": "AASLD The Liver Meeting",
